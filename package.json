@@ -18,5 +18,8 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.18",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "concurrently": "^6.0.0"
   }
 }

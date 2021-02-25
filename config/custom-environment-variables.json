@@ -1,4 +1,6 @@
 {
     "mongoURI": "devconnect_mongodbAtlas",
-    "mysecrettoken": "jwtSecret"
+    "mysecrettoken": "jwtSecret",
+    "githubClientId": "sanzgithub",
+    "githubSecret": "sanzsecret"
 }

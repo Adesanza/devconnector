@@ -1,3 +1,5 @@
 {
-    "mongoURI": "devconnect_mongodbAtlas"
+    "mongoURI": "devconnect_mongodbAtlas",
+    "githubClientId": "sanzgithub",
+    "githubSecret": "sanzsecret"
 }
